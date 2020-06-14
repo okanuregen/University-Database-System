@@ -1,6 +1,7 @@
 # University-Database-System
 <p>It is a online university system which allows users to see instructors - students - departments - courses - projects and their details.<br>
-I used PHP 7.3 and HTML/CSS for implementation.
+I used PHP 7.3 and HTML/CSS for implementation.<br>
+Note: Except half of the university.sql file, all project belongs to me.
 </p>
 
 <p><h2>Install</h2>
