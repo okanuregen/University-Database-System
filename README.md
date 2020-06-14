@@ -14,3 +14,7 @@ I used PHP 7.3 and HTML/CSS for implementation.
         <li>Go to the localhost/foldername in your browser</li>
 </ul>
 </p>
+<p><h2>Screens</h2>
+<h4>index.php</h4>
+<img src="Screen/index.jpg">
+</p>
