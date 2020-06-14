@@ -16,5 +16,5 @@ I used PHP 7.3 and HTML/CSS for implementation.
 </p>
 <p><h2>Screens</h2>
 <h4>index.php</h4>
-<img src="Screens/index.jpg">
+<img src="ScreenShots/index.jpg" width="600px">
 </p>
